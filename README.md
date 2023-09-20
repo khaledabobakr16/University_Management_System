@@ -1,4 +1,4 @@
-# University_Management_System
+# University Management System
 * Project name: University Management System Project.
 * This project was programmed within a training program (Software Techie Kit) at the (Orange Digital Center Egypt).
 # NOTES
