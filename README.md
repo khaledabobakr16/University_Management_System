@@ -1,6 +1,7 @@
 # University_Management_System
-project name: University Management System Project.
-This project was programmed within a training program (Software Techie Kit) at the (Orange Digital Center Egypt).
+# project name:
+* University Management System Project.
+* This project was programmed within a training program (Software Techie Kit) at the (Orange Digital Center Egypt).
 # NOTES
 1. Design pattern used : Singleton design pattern.
 2. This project was implemented by a team of four people.
